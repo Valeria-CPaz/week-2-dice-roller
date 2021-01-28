@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">week-2-dice-roller</string>
+    <string name="roll_label">Roll the Dice</string>
+    <string name="application_by_val">Application By Val</string>
+    <string name="LOG_MESSAGE_1">I am a message</string>
+    <string name="LOG_MESSAGE_ROLL_DICE">Button Clicked to roll the dice</string>
+    <string name="TOAST_MESSAGE_1">button clicked</string>
+    <string name="SCREEN_MESSAGE_1">Dice Rolled</string>
+    <string name="DEFAULT_MESSAGE">Hello World</string>
+</resources>
